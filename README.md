@@ -16,26 +16,31 @@ A collection of five text-based mini-games designed to train your logical thinki
 * **Brain-Calc:** Calculate the result of a random mathematical expression.
 * **Brain-Gcd:**  Find the greatest common divisor of given numbers.
 * **Brain-Progression:** Find the missing number in the arithmetic progression.
+* **Brain-Prime:** Determine if the given number is prime.
 ## Gameplay Demonstration
 
 ### 1. Brain Even (Четность)
-[Watch Demonstration]](https://asciinema.org/a/awyKr6r9xxrq7UoE)
+[Watch Demonstration](https://asciinema.org/a/awyKr6r9xxrq7UoE)
 
 ---
 
 ### 2. Brain Calc (Калькулятор)
-[[Watch Demonstration]](https://asciinema.org/a/cz3xthCr3mEypMmc)
+[[Watch Demonstration](https://asciinema.org/a/cz3xthCr3mEypMmc)
 
 ---
 
 ### 3. Brain Gcd (Остаток от деления)
-[Watch Demonstration]](https://asciinema.org/a/3lqLPgoh5EL3tUKf)
+[Watch Demonstration](https://asciinema.org/a/3lqLPgoh5EL3tUKf)
 
 ---
 
 ### 4. Brain Progression (Арифметическая прогрессия)
-[Watch Demonstration]](https://asciinema.org/a/LpuHJfksJ0oOHWl4)
+[Watch Demonstration](https://asciinema.org/a/LpuHJfksJ0oOHWl4)
 
+---
+
+### 5. Brain Prime (Простое число)
+[Watch Demonstration](https://asciinema.org/a/TTbRb3Ess6SErEkX)
 ## Installation
 
 Before installing, make sure you have Node.js version 20+ installed.
@@ -46,4 +51,3 @@ cd frontend-project-44
 npm install
 npm link
 
-[![asciicast](https://asciinema.org/a/awyKr6r9xxrq7UoE)](https://asciinema.org/a/awyKr6r9xxrq7UoE)
