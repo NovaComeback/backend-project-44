@@ -3,8 +3,6 @@
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=NovaComeback_backend-project-44&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=NovaComeback_backend-project-44)
 
-[![Actions Status](https://github.com/NovaComeback/backend-project-44/actions/workflows/main.yml/badge.svg)](https://github.com/NovaComeback/backend-project-44/actions)
-
 # Brain Games
 
 ## Description

@@ -1,4 +1,4 @@
-import runEngineGame from './index.js'
+import runEngineGame from '../index.js'
 
 const isPrime = (num) => {
 

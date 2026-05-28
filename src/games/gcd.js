@@ -1,4 +1,4 @@
-import runGameEngine from "./index.js"
+import runGameEngine from "../index.js"
 
 const gcdGet = (a, b) => {
 if(b === 0){

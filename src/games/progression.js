@@ -1,4 +1,4 @@
-import runGameEngine from './index.js'
+import runGameEngine from '../index.js'
 
 const progression = () => {
 
