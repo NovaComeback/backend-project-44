@@ -15,22 +15,26 @@ A collection of five text-based mini-games designed to train your logical thinki
 * **Brain-Even:** Check for even/odd numbers.
 * **Brain-Calc:** Calculate the result of a random mathematical expression.
 * **Brain-Gcd:**  Find the greatest common divisor of given numbers.
-
+* **Brain-Progression:** Find the missing number in the arithmetic progression.
 ## Gameplay Demonstration
 
 ### 1. Brain Even (Четность)
-[![asciicast](https://asciinema.org/a/awyKr6r9xxrq7UoE)
+[Watch Demonstration]](https://asciinema.org/a/awyKr6r9xxrq7UoE)
 
 ---
 
 ### 2. Brain Calc (Калькулятор)
-[![asciicast](https://asciinema.org/a/cz3xthCr3mEypMmc)
+[[Watch Demonstration]](https://asciinema.org/a/cz3xthCr3mEypMmc)
 
-
+---
 
 ### 3. Brain Gcd (Остаток от деления)
-[![asciicast](https://asciinema.org/a/3lqLPgoh5EL3tUKf)
+[Watch Demonstration]](https://asciinema.org/a/3lqLPgoh5EL3tUKf)
 
+---
+
+### 4. Brain Progression (Арифметическая прогрессия)
+[Watch Demonstration]](https://asciinema.org/a/LpuHJfksJ0oOHWl4)
 
 ## Installation
 
