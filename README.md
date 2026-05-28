@@ -13,7 +13,8 @@ A collection of five text-based mini-games designed to train your logical thinki
 ### Games included:
 * **Brain-Games:** Greeting module.
 * **Brain-Even:** Check for even/odd numbers.
-* **brain-calc:** Calculate the result of a random mathematical expression.
+* **Brain-Calc:** Calculate the result of a random mathematical expression.
+* **Brain-Gcd:**  Find the greatest common divisor of given numbers.
 
 ## Gameplay Demonstration
 
@@ -24,6 +25,12 @@ A collection of five text-based mini-games designed to train your logical thinki
 
 ### 2. Brain Calc (Калькулятор)
 [![asciicast](https://asciinema.org/a/cz3xthCr3mEypMmc)
+
+
+
+### 3. Brain Gcd (Остаток от деления)
+[![asciicast](https://asciinema.org/a/3lqLPgoh5EL3tUKf)
+
 
 ## Installation
 
