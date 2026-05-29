@@ -1,12 +1,17 @@
 import runGameEngine from '../index.js'
+const minRange = 5;
+
+const maxRange = 10;
+
+const range = 20;
 
 const progression = () => {
 
-const length = Math.floor(Math.random() * (10 - 5 + 1)) + 5;
+const length = Math.floor(Math.random() * (maxRange - minRange + 1)) + minRange;
 
-const start = Math.floor(Math.random() * 20) + 1;
+const start = Math.floor(Math.random() * range) + 1;
 
-const step = Math.floor(Math.random() * 10) + 1;
+const step = Math.floor(Math.random() * maxRange) + 1;
 
 const elements = [];
 

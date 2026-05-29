@@ -16,13 +16,14 @@ default:
  }
 };
 
+const range = 20;
+
  const generateRound = () => {
- 
 const operators = ["+","-","*"];
 
-const num1 = Math.floor(Math.random() * 20) + 1;
+const num1 = Math.floor(Math.random() * range) + 1;
  
-const num2 = Math.floor(Math.random() * 20) + 1;
+const num2 = Math.floor(Math.random() * range) + 1;
 
 const operator = operators[Math.floor(Math.random() * operators.length)];
 

@@ -22,12 +22,12 @@ return num1
 
 const gameDescription = 'Find the greatest common divisor of given numbers.'
 
+const range = 100;
 
 const generateRound = () => {
+const num1 = Math.floor(Math.random() * range) + 1;
 
-const num1 = Math.floor(Math.random() * 100) + 1;
-
-const num2 = Math.floor(Math.random() * 100) + 1;
+const num2 = Math.floor(Math.random() * range) + 1;
 
 const question = `${num1} ${num2}`;
 

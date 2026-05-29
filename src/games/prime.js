@@ -21,12 +21,15 @@ return true;
 
 };
 
+const range = 100;
 
 const gameDescription = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 const generateRound = () => {
 
-const question = Math.floor(Math.random() * 100) + 1;
+
+
+const question = Math.floor(Math.random() * range) + 1;
 
 const correctAnswer = isPrime(question) ? 'yes' : 'no';
 
